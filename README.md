@@ -11,7 +11,7 @@
 * 3:"Happy",
 * 4:"Sad",
 * 5:"Surprise",
-* 6:"Neutral" <br>
+* 6:"Neutral" 
 of the person in real time (person standing infront of camera)
 
 The Deep Learning model is trainind on the around 29,000 imges of persons with different facial expressions.
