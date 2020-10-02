@@ -2,7 +2,7 @@
 # Real time Facial Expression Recogniser 
 
 
-**This repository contains the real time facial Expression recogniser.**
+**This repository contains the real time facial Expression recogniser.A deeplearning model for facial expression recognition**
 
 ### It can predict the 7 below expressions 
 * 0:"Angry",
