@@ -15,7 +15,7 @@
 of the person in real time (person standing infront of camera)
 
 The Deep Learning model is trainind on the around 29,000 imges of persons with different facial expressions.
-Dataset Link :-https://drive.google.com/file/d/1mvoYppdeiOSLx2lGE7Ow6rGlU5IIXxy6/view?usp=sharing
+Link :-https://drive.google.com/file/d/1mvoYppdeiOSLx2lGE7Ow6rGlU5IIXxy6/view?usp=sharing
 
 **Results**
 
